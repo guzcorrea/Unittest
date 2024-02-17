@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "test/bin/python",
+    "code-runner.executorMap": {
+        "python": "python -u",
+    }
+}
+
